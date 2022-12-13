@@ -24,12 +24,12 @@ Wrap!
 Download
 -----------------------------------------------------------------------------------------------
 
-You can download this project from https://github.com/NeelM19/TiffinSeva 
+You can download this project from https://github.com/RIK1849/TiffinSeva 
 
 
 ## License
 
-Copyright 2021 Neel Modi
+Copyright 2021 Rutvik Chavda
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
